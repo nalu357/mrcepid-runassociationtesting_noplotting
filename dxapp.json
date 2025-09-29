@@ -84,7 +84,7 @@
         "name": "burden",
         "package_manager": "git",
         "url": "https://github.com/nalu357/burden.git",
-        "tag": "v1.1.8",
+        "tag": "v1.0.0",
         "build_commands": "uv pip install --system  ."
       },
       {
