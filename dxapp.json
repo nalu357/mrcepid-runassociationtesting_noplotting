@@ -101,7 +101,6 @@
         "tag": "v1.0.4",
         "build_commands": "uv pip install --system  ."
       }
-      }
     ]
   },
   "access": {
