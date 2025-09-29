@@ -1,5 +1,5 @@
 {
-  "name": "mrcepid-runassociationtesting-noplotting",
+  "name": "mrcepid-runassociationtesting_noplotting",
   "title": "RunAssociationTestingNoPlotting",
   "summary": "Runs rare variant burden testing with various tools but skips plotting",
   "dxapi": "1.0.0",
